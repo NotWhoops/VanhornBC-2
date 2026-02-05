@@ -7,9 +7,9 @@ namespace VanhornBC2.Services
 {
     public class AskingQuestionsServices
     {
-        public string AskingQuestions(string answer1, string answer2)
+        public string AskingQuestions(string name, string time)
         {
-            return $"Your name is {answer1} and You woke up at {answer2}";
+            return $"Your name is {name} and You woke up at {time}";
         }
     }
 }

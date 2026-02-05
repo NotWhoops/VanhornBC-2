@@ -20,9 +20,9 @@ namespace VanhornBC2.Controllers
 
         [HttpGet]
         [Route("AskingQuestions/{answer1}/{answer2}")]
-        public string AskingQuestions(string answer1, string answer2)
+        public string AskingQuestions(string name, string time)
         {
-            return _askingQuestionsServices.AskingQuestions(answer1, answer2);
+            return _askingQuestionsServices.AskingQuestions(name, time);
         }
     }
 }
