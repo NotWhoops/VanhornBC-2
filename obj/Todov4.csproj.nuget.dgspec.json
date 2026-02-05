@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC#2\\Todov4.csproj": {}
+    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC2\\Todov4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC#2\\Todov4.csproj": {
+    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC2\\Todov4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC#2\\Todov4.csproj",
+        "projectUniqueName": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC2\\Todov4.csproj",
         "projectName": "Todov4",
-        "projectPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC#2\\Todov4.csproj",
+        "projectPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC2\\Todov4.csproj",
         "packagesPath": "C:\\Users\\bmdva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC#2\\obj\\",
+        "outputPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 5\\VanhornBC2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmdva\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,7 +46,15 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.1.0, )"
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
