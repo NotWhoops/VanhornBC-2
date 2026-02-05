@@ -21,7 +21,7 @@ namespace VanhornBMC6.Services
         "System Error, Please try again",
         "You monster, how dare you suggest that",
         "I don't contain the parameters to help you",
-        "Ayo, please read the bible bro"
+        "Please read the bible bro"
         };
 
             Random rand = new Random();

@@ -7,9 +7,9 @@ namespace VanhornBMC5.Services
 {
     public class MadLibServices
     {
-        public string MadLib(string noun, string verb, string adjective, string pronoun, string adverb)
+        public string MadLib(string noun, string verb, string adjective, string place, string emotion)
         {
-            return $"Hello {noun} you don't have a {adverb} do you? Well either way can you help me acquire a specific item similar to a {adjective}? Well now tell me about your {verb}. What kind of {pronoun} breed is he?"; 
+            return $"Yesterday, I saw a {adjective} {noun} trying to {verb} on top of a {adjective} {place}, and it made everyone feel extremely {emotion}."; 
         }
     }
 }
