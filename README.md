@@ -4,6 +4,6 @@
 
  // All for One Api 
 
- // Brief Description of what you did. 
+ // created a api with multiple endpoints that uses previous mini challenges: (Hello World, Asking Questions, Adding Two Numbers, MadLib, Odd Or Even, Reverse It(Alphanumeric), Reverse it (Numbers Only), Magic 8 Ball, Guess It, Restaurant Picker) and host them on azure with a github
 
-// Person who Peer Reviewed your assignment
+// Peer Review:
