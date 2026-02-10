@@ -6,4 +6,4 @@
 
  // created a api with multiple endpoints that uses previous mini challenges: (Hello World, Asking Questions, Adding Two Numbers, MadLib, Odd Or Even, Reverse It(Alphanumeric), Reverse it (Numbers Only), Magic 8 Ball, Guess It, Restaurant Picker) and host them on azure with a github
 
-// Peer Review:
+// Peer Review: Each endpoint works great!! Good job bro, i get the correct responses for each! nice job!
